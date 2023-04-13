@@ -43,7 +43,7 @@ legionella_plasmids_df <- plasmids_df %>%
 
 write_csv(legionella_plasmids_df, "/home/user/PycharmProjects/Microbial_genomics_analysis/Legionella/plasmidome/2023_01_04_NCBI_filtered_nuccore_plasmids_list.csv")
 ```
-78 plasmids
+77 plasmids
 
 ## NCBI FTP RefSeq
 https://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/
@@ -63,15 +63,17 @@ write_csv(legionella_plasmids_df, "/home/user/PycharmProjects/Microbial_genomics
 64 plasmids
 ## Comparison of 2 datasets
 ```R
-refseq_plasmids_path <- "/home/user/PycharmProjects/Microbial_genomics_analysis/Legionella/plasmidome/2023_01_04_NCBI_filtered_plasmids_list.csv"
-nuccore_plasmids_path <- "/home/user/PycharmProjects/Microbial_genomics_analysis/Legionella/plasmidome/2023_01_04_NCBI_filtered_nuccore_plasmids_list.csv"
+refseq_plasmids_path <- "/home/user/PycharmProjects/Microbial_genomics_analysis/Legionella/legionella_plasmidome/2023_01_04_NCBI_filtered_plasmids_list.csv"
+nuccore_plasmids_path <- "/home/user/PycharmProjects/Microbial_genomics_analysis/Legionella/legionella_plasmidome/2023_01_04_NCBI_filtered_nuccore_plasmids_list.csv"
 
 refseq_plasmids_df <- read_csv(refseq_plasmids_path)
 nuccore_plasmids_df <- read_csv(nuccore_plasmids_path)
 
 full_plasmids_df <- nuccore_plasmids_df %>%
   mutate(INSDC = gsub("\\..*","", acc_number)) %>% 
-  full_join(refseq_plasmids_df)
+  full_join(refseq_plasmids_df) %>%
+  mutate(name = gsub("^[0-9]{1,2}\\. ", "", name))
 
+write_csv(full_plasmids_df, "full_plasmids.csv")
 ```
 
