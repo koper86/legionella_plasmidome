@@ -1,0 +1,65 @@
+Organism,Kingdom,Group,SubGroup,Plasmid Name,RefSeq,INSDC,Size (Kb),GC%,Protein,rRNA,tRNA,Other RNA,Gene,Pseudogene
+Legionella anisa,Bacteria,Pseudomonadota,Gammaproteobacteria,p3A1,NZ_CP029564.1,CP029564,149.144,38.8678,140,-,-,-,150,10
+Legionella anisa,Bacteria,Pseudomonadota,Gammaproteobacteria,p3A2,NZ_CP029565.1,CP029565,48.353,38.3906,51,-,-,-,53,2
+Legionella anisa,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP082853.1,CP082853,138.031,39.4151,149,-,-,-,161,12
+Legionella anisa,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed2,NZ_CP082854.1,CP082854,48.353,38.3885,51,-,-,-,53,2
+Legionella anisa,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed3,NZ_CP082855.1,CP082855,143.699,38.0371,151,-,-,-,155,4
+Legionella antarctica,Bacteria,Pseudomonadota,Gammaproteobacteria,pTUM19329-1,NZ_AP022840.1,AP022840,140.878,39.0444,142,-,-,-,145,3
+Legionella antarctica,Bacteria,Pseudomonadota,Gammaproteobacteria,pTUM19329-2,NZ_AP022841.1,AP022841,35.454,38.4385,38,-,-,-,39,1
+Legionella fallonii LLAP-10,Bacteria,Pseudomonadota,Gammaproteobacteria,II,NZ_LN614828.1,LN614828,238.761,39.0604,234,-,-,-,237,3
+Legionella fallonii LLAP-10,Bacteria,Pseudomonadota,Gammaproteobacteria,III,NZ_LN614829.1,LN614829,14.566,35.473,11,-,-,-,12,1
+Legionella geestiana,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP038272.1,CP038272,60.873,44.1017,59,-,-,-,64,5
+Legionella geestiana,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP041714.1,CP041714,53.3,45.3846,57,-,-,-,57,-
+Legionella geestiana,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed2,NZ_CP041715.1,CP041715,13.794,43.4827,5,-,-,-,6,1
+Legionella hackeliae,Bacteria,Pseudomonadota,Gammaproteobacteria,II,NZ_LN681226.1,LN681226,129.882,37.4571,138,-,-,-,142,4
+Legionella israelensis,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP038274.1,CP038274,47.309,38.1682,53,-,-,-,58,5
+Legionella israelensis,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP041669.1,CP041669,64.967,39.3015,58,-,-,-,62,4
+Legionella longbeachae,Bacteria,Pseudomonadota,Gammaproteobacteria,pLLO-F1157CHC,NZ_CP020895.2,CP020895,108.267,38.1825,98,-,-,-,105,7
+Legionella longbeachae,Bacteria,Pseudomonadota,Gammaproteobacteria,pB3526CHC_150k,NZ_CP042253.1,CP042253,150.432,38.0896,156,-,-,-,161,5
+Legionella longbeachae,Bacteria,Pseudomonadota,Gammaproteobacteria,pB41211CHC_76k,NZ_CP045307.1,CP045307,76.153,38.0129,72,-,-,-,77,5
+Legionella longbeachae,Bacteria,Pseudomonadota,Gammaproteobacteria,pB1445CHC_73K,NZ_CP045304.1,CP045304,73.728,37.8187,58,-,-,-,60,2
+Legionella longbeachae,Bacteria,Pseudomonadota,Gammaproteobacteria,pB1445CHC_150k,NZ_CP045305.1,CP045305,150.426,38.0951,158,-,-,-,163,5
+Legionella longbeachae,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP082851.1,CP082851,2.647,43.3321,3,-,-,-,3,-
+Legionella longbeachae NSW150,Bacteria,Pseudomonadota,Gammaproteobacteria,pLLO,NC_014544.1,FN650141,71.826,38.1881,67,-,-,-,70,3
+Legionella lytica,Bacteria,Pseudomonadota,Gammaproteobacteria,pLlyPCM2298_1,NZ_CP071528.1,CP071528,373.394,37.6578,275,-,-,-,291,16
+Legionella lytica,Bacteria,Pseudomonadota,Gammaproteobacteria,pLlyPCM2298_2,NZ_CP071529.1,CP071529,136.522,38.4788,123,-,-,-,130,7
+Legionella oakridgensis ATCC 33761 = DSM 21215,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP004007.1,CP004007,50.245,39.8388,44,-,-,-,44,-
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP011106.1,CP011106,143.694,38.0378,149,-,-,-,155,6
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,2,NZ_LT598658.1,LT598658,129.881,37.4574,136,-,-,-,140,4
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP015940.1,CP015940,58.092,38.1946,53,-,-,-,54,1
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP015942.1,CP015942,33.359,39.6265,38,-,-,-,38,-
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unamed2,NZ_CP015943.1,CP015943,73.576,39.0345,77,-,-,-,78,1
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP015948.1,CP015948,71.453,39.0942,72,-,-,-,74,2
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP015952.1,CP015952,73.576,39.0331,75,-,-,-,76,1
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP015957.1,CP015957,48.354,38.3877,51,-,-,-,53,2
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP016031.1,CP016031,129.884,37.4573,136,-,-,-,140,4
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,pLG57,NZ_CM009572.1,CM009572,76.262,37.3607,81,-,-,-,81,-
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP021273.1,CP021273,58.935,37.974,62,-,-,-,67,5
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP021275.1,CP021275,58.937,37.9744,63,-,-,-,67,4
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed2,NZ_CP021276.1,CP021276,76.951,38.813,79,-,-,-,80,1
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP021271.1,CP021271,56.208,36.9805,55,-,-,-,55,-
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP048619.1,CP048619,106.642,37.4768,109,-,-,-,111,2
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP082849.1,CP082849,52.758,37.5716,49,-,-,-,50,1
+Legionella pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,pH3-D-14,NZ_CP114577.1,CP114577,103.432,40.0321,109,-,-,-,111,-
+Legionella pneumophila str. Lens,Bacteria,Pseudomonadota,Gammaproteobacteria,pLPL,NC_006366.1,CR628339,59.832,38.3858,52,-,-,-,53,1
+Legionella pneumophila str. Paris,Bacteria,Pseudomonadota,Gammaproteobacteria,pLPP,NC_006365.1,CR628338,131.885,37.4387,138,-,-,-,142,4
+Legionella pneumophila subsp. fraseri,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP021278.1,CP021278,76.972,38.6322,77,-,-,-,80,3
+Legionella pneumophila subsp. fraseri,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP021280.1,CP021280,88.504,40.4219,91,-,-,-,94,3
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,pLELO,NC_018141.1,FQ958212,150.432,38.0896,155,-,-,-,160,5
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP016869.1,CP016869,68.145,38.4636,58,-,-,-,60,2
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP016871.1,CP016871,68.145,38.4636,58,-,-,-,60,2
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP016875.1,CP016875,68.146,38.463,59,-,-,-,61,2
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP021282.1,CP021282,129.884,37.4573,135,-,-,-,139,4
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP021284.1,CP021284,150.433,38.0874,155,-,-,-,160,5
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed2,NZ_CP021285.1,CP021285,67.142,38.2801,59,-,-,-,60,1
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP021287.1,CP021287,129.88,37.46,136,-,-,-,141,5
+Legionella pneumophila subsp. pneumophila,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NZ_CP061841.1,CP061841,129.883,37.4583,136,-,-,-,140,4
+Legionella pneumophila subsp. pneumophila LPE509,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed,NC_020522.1,CP003886,73.49,40.3402,77,-,-,-,78,1
+Legionella sainthelensi,Bacteria,Pseudomonadota,Gammaproteobacteria,pLA01-117_150k,NZ_CP025492.2,CP025492,150.432,38.0903,155,-,-,-,160,5
+Legionella sainthelensi,Bacteria,Pseudomonadota,Gammaproteobacteria,pLA01-117_113k,NZ_CP025493.2,CP025493,113.526,35.5496,101,-,-,-,104,3
+Legionella sp. MW5194,Bacteria,Pseudomonadota,Gammaproteobacteria,unnamed1,NZ_CP045733.1,CP045733,161.38,39.4374,160,-,-,-,170,10
+Legionella sp. PC1000,Bacteria,Pseudomonadota,Gammaproteobacteria,pPC1000_2,NZ_CP059401.1,CP059401,67.88,40.9031,73,-,-,-,82,9
+Legionella sp. PC1000,Bacteria,Pseudomonadota,Gammaproteobacteria,pPC1000_3,NZ_CP059402.1,CP059402,31.534,39.2021,26,-,1,-,33,6
+Legionella sp. PC1000,Bacteria,Pseudomonadota,Gammaproteobacteria,pPC1000_1,NZ_CP059403.1,CP059403,68.633,39.771,75,-,-,-,76,1
+Legionella sp. PC997,Bacteria,Pseudomonadota,Gammaproteobacteria,pPC997_1,NZ_CP059577.1,CP059577,150.431,38.0886,156,-,-,-,161,5
+Legionella sp. PC997,Bacteria,Pseudomonadota,Gammaproteobacteria,pPC997_2,NZ_CP059578.1,CP059578,79.08,35.2289,76,-,-,-,77,1
